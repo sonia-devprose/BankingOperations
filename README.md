@@ -24,3 +24,5 @@ The `Banking` class simulates basic banking operations, such as deposit, withdra
    - The result is printed as either "active" or "inactive" depending on whether the account balance is greater than `0`.
 
 Overall, the class demonstrates various operators used to manage banking operations and account statuses. Each operation is printed with appropriate feedback for clarity.
+
+![Screenshot 2024-11-23 173305](https://github.com/user-attachments/assets/657ac565-f666-456f-a70d-870ef726c127)
